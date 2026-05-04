@@ -1,16 +1,33 @@
-## Hi there 👋
+![coder](https://scontent.fdac207-1.fna.fbcdn.net/v/t39.30808-6/481085908_498362529976532_9015460971131596888_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=b895b5&_nc_eui2=AeHVdvwC_CpMm2X2Le3zpmNU_iG-Mf_0hi7-Ib4x__SGLqrxhWCVGzmIMrF7xes6lvIcwivZwOn7zJVbGxaDlb9G&_nc_ohc=hL_NRm0kMlIQ7kNvwGjiA0c&_nc_oc=AdoLyTc5TA8lTJNH6TcHAwFxGIUt8UvNAz6dXevtXUOZD1jJA974-bpKNWDiyMcwSBk&_nc_zt=23&_nc_ht=scontent.fdac207-1.fna&_nc_gid=pGRSwmDq6-6nYEQkCeNQ8A&_nc_ss=7b2a8&oh=00_Af5_0Ulm9CDd73K23FLhkHMc2IKcPavMjStJj7ErLDM8rg&oe=69FE947A)
+
+### Hi there 👋, I'm Hasibul Sakib
+#### coder
 
 
-**hasibulsakib/hasibulsakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+apatoto nothing
 
-Here are some ideas to get you started:
+Skills: C/C++/OOP/Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning DSA/Python 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about CP 
+- 📫 How to reach me: hasibulsakib268@gmail.com 
+- ⚡ Fun fact: B.Sc in CSE 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasibulsakib)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasibulsakib)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulsakib)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibulsakib&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hasibulsakib/contributions?format=svg&private=false)  
+
+![GitHub metrics](https://metrics.lecoq.io/hasibulsakib)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=hasibulsakib)  
 
